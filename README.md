@@ -7,7 +7,7 @@ The main aim here is to predict a person's insurance charges using Linear Regres
 
 ## Dataset
 
-The dataset includes the following columns:
+The dataset includes the following columns:-
 
 - age
 - sex
